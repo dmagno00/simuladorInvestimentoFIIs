@@ -1,18 +1,20 @@
-📈 Simulador de Investimentos em FIIs
-Este projeto foi desenvolvido como parte de um desafio da DIO (Digital Innovation One) para aplicar conceitos avançados de Excel em finanças pessoais.
+# 📈 Simulador de Investimentos em FIIs
+> Projeto desenvolvido para o desafio de Excel da DIO, focado em análise de Fundos Imobiliários e Projeção de Patrimônio.
 
-🛠️ Funcionalidades
-Cálculo Automático de Aporte: Sugestão de investimento baseada em 30% da renda.
 
-Projeção de Patrimônio: Simulação de crescimento de capital em horizontes de 2 a 30 anos.
+## 🎯 Objetivo
+Criar uma ferramenta automatizada que auxilia o investidor a entender o impacto dos aportes mensais e do rendimento de dividendos ao longo do tempo (2 a 30 anos), aplicando conceitos de **Matemática Financeira** e **Gestão de Risco**.
 
-Estimativa de Dividendos: Cálculo de renda passiva mensal esperada.
+## 🚀 Funcionalidades
+- **Cálculo de Aporte Automático:** Baseado na regra de 30% do salário.
+- **Simulador de Juros Compostos:** Projeção detalhada de patrimônio acumulado.
+- **Matriz de Alocação por Perfil:** Sugestões automáticas para perfis Conservador, Moderado e Agressivo.
+- **Cálculo de Dividendos:** Estimativa de renda passiva mensal.
 
-Alocação por Perfil de Risco: Sugestão de portfólio (Papel, Tijolo, FOFs, etc.) baseada nos perfis Conservador, Moderado e Agressivo.
+## 🧠 Conhecimentos Aplicados
+1. **Finanças:** Lógica baseada nos estudos para a certificação **CPA-10**.
+2. **Excel Avançado:** Uso de fórmulas de Valor Futuro (VF), Procura de Dados e Formatação Condicional.
+3. **Lógica de Programação:** Estruturação de dados que facilita a futura migração para um app em **JavaScript**.
 
-🧠 Conceitos Aplicados
-Matemática Financeira: Fórmulas de Juros Compostos e Valor Futuro.
-
-Lógica de Dados: Estruturação de tabelas de referência para validação de perfis.
-
-Análise de Investimentos: Diversificação de ativos dentro do setor imobiliário.
+---
+✨ Desenvolvido por Diego Magno 
